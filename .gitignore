@@ -1,0 +1,21 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# raw Wayback HTML (64 MB): re-downloadable byte-for-byte from the timestamps
+# in data/intermediate/part1_download_log.csv via 02_download_snapshots.py
+data/raw/wayback/*
+!data/raw/wayback/.gitkeep
+
+# run logs
+data/intermediate/*_log.txt
+
+# proxy statement texts (re-downloadable from the URLs in part2_proxy_index.csv)
+data/raw/proxies/
+
+# caches: speed up re-runs only; rebuilt automatically
+data/intermediate/llm_cache/
+data/intermediate/cdx_cache/
+data/raw/

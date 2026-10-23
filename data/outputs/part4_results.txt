@@ -1,0 +1,25 @@
+
+diversity_inclusion: 43 firms observed on both channels in 2022 and 2024
+         firms  proxy_before  proxy_after  mean_change  median_change_pct  share_proxy_down
+group                                                                                      
+added        2         29.37        16.57       -12.80              -43.5              1.00
+dropped      7         15.60        13.14        -2.46              -15.0              0.86
+kept        11         18.59        14.86        -3.73              -11.0              0.64
+never       23         15.56        11.64        -3.92              -29.0              0.70
+   dropped: ABBV (13.9->12.7), AXP (30.4->12.7), CRM (8.4->7.8), HAL (7.2->6.1), JPM (25.2->17.1), SBUX (21.0->3.4), SCHW (3.1->32.3)
+   added: BAC (31.0->15.6), INTC (27.8->17.6)
+
+environment_sustainability: 43 firms observed on both channels in 2022 and 2024
+         firms  proxy_before  proxy_after  mean_change  median_change_pct  share_proxy_down
+group                                                                                      
+added        5         18.39        15.48        -2.92              -33.0              0.60
+dropped     10         15.22        16.85         1.63               43.0              0.10
+kept        15         38.11        32.89        -5.21              -14.0              0.60
+never       13         26.63        31.11         4.49               18.0              0.15
+   dropped: ABBV (10.5->14.9), AXP (13.1->18.8), BAC (68.1->38.5), BMY (14.9->15.6), CRM (11.1->14.9), F (7.2->17.6), INTC (11.7->13.2), MRK (8.1->15.5), ORCL (3.9->12.7), SCHW (3.6->6.8)
+   added: C (35.2->23.4), HAL (19.2->26.5), TJX (8.9->11.0), TMO (20.5->12.1), TSLA (8.2->4.3)
+
+Indexed trend (2016 = 100): website / proxy
+year      2016   2017   2018   2019   2020   2021   2022   2023   2024
+website  100.0  112.0  125.0  138.0  138.0  188.0  212.0  212.0  162.0
+proxy    100.0  121.0  144.0  194.0  211.0  335.0  338.0  316.0  274.0

@@ -1,0 +1,112 @@
+ticker,priority,url,page_type,note
+MSFT,1,microsoft.com/en-us/about/values,values,
+MSFT,2,microsoft.com/en-us/about,about,
+AAPL,1,apple.com/about,about,Apple has no classic About page; may be missing
+AAPL,2,apple.com/diversity,values,"inclusion page, not a values statement; last-resort fallback only"
+NVDA,1,nvidia.com/en-us/about-nvidia,about,
+GOOGL,1,about.google/philosophy,values,"Ten things we know to be true; known URL, checked via CDX"
+GOOGL,2,google.com/about/philosophy.html,values,Ten things we know to be true (older URL)
+GOOGL,3,google.com/about/company/philosophy,values,Ten things we know to be true (older URL)
+GOOGL,4,about.google,about,used from ~2018
+GOOGL,5,google.com/about,about,older URL; redirects to about.google
+GOOGL,6,abc.xyz,about,Alphabet parent site
+META,1,about.fb.com/company-info,about,used from ~2019
+META,2,newsroom.fb.com/company-info,about,older URL
+META,3,about.meta.com,about,after 2021 rebrand
+AVGO,1,broadcom.com/company/about-us,about,
+AVGO,2,broadcom.com/company,about,older URL; found via CDX prefix search
+CRM,1,salesforce.com/company/about-us,about,
+CRM,2,salesforce.com/company/our-story,about,
+CRM,3,salesforce.com/company,about,2016 URL; found via CDX prefix search
+ORCL,1,oracle.com/corporate,about,
+IBM,1,ibm.com/ibm/values/us,values,
+IBM,2,ibm.com/about,about,
+INTC,1,intel.com/content/www/us/en/company-overview/company-overview.html,about,
+INTC,2,intel.com/content/www/us/en/company-overview.html,about,older URL; found via CDX prefix search
+BRK.B,1,berkshirehathaway.com,about,minimal site; homepage is the only candidate
+JPM,1,jpmorganchase.com/about,about,
+JPM,2,jpmorganchase.com/corporate/About-JPMC/about-us.htm,about,older URL
+BAC,1,about.bankofamerica.com/en-us/our-story/our-values.html,values,found via CDX prefix search
+BAC,2,about.bankofamerica.com/en-us/our-story/our-core-values.html,values,found via CDX prefix search
+BAC,3,about.bankofamerica.com,about,
+WFC,1,wellsfargo.com/about/corporate/vision-and-values,values,key case (2016 sales-practices scandal)
+WFC,2,wellsfargo.com/about,about,
+GS,1,goldmansachs.com/who-we-are/business-standards/business-principles,values,
+GS,2,goldmansachs.com/our-firm,about,
+MS,1,morganstanley.com/about-us,about,
+BLK,1,blackrock.com/corporate/about-us/mission-and-principles,values,
+BLK,2,blackrock.com/corporate/about-us,about,
+SCHW,1,aboutschwab.com/who-we-are,about,found via CDX prefix search; from ~2019
+SCHW,2,aboutschwab.com/our-company,about,found via CDX prefix search; 2024
+SCHW,3,aboutschwab.com,about,
+AXP,1,about.americanexpress.com/our-company/who-we-are/who-we-are,about,found via CDX prefix search; 2022
+AXP,2,americanexpress.com/en-us/company,about,
+AXP,3,about.americanexpress.com,about,older URL
+C,1,citigroup.com/citi/about/mission-and-value-proposition.html,values,
+C,2,citigroup.com/global/about-us,about,
+LLY,1,lilly.com/who-we-are/about-lilly,about,
+LLY,2,lilly.com/who-we-are,about,
+UNH,1,unitedhealthgroup.com/about/mission-values.html,values,found via CDX prefix search
+UNH,2,unitedhealthgroup.com/who-we-are.html,about,
+UNH,3,unitedhealthgroup.com/about.html,about,found via CDX prefix search
+UNH,4,unitedhealthgroup.com/About.aspx,about,older URL
+JNJ,1,jnj.com/credo,values,Our Credo
+JNJ,2,jnj.com/about-jnj,about,
+ABBV,1,abbvie.com/our-company.html,about,
+ABBV,2,abbvie.com/who-we-are.html,about,
+ABBV,3,abbvie.com/about-us/who-we-are.html,about,older URL; found via CDX prefix search
+MRK,1,merck.com/company-overview,about,
+MRK,2,merck.com/about/home.html,about,older URL
+TMO,1,corporate.thermofisher.com/en/about-us.html,about,
+TMO,2,thermofisher.com/us/en/home/about-us.html,about,
+ABT,1,abbott.com/about-abbott.html,about,
+PFE,1,pfizer.com/about,about,
+MDT,1,medtronic.com/us-en/about/mission.html,values,Medtronic Mission
+MDT,2,medtronic.com/us-en/about.html,about,
+BMY,1,bms.com/about-us.html,about,
+BMY,2,bms.com/ourcompany/pages/home.aspx,about,older URL; found via CDX prefix search
+AMZN,1,amazon.jobs/en/principles,values,Leadership Principles
+AMZN,2,aboutamazon.com/about-us,about,
+TSLA,1,tesla.com/about,about,
+HD,1,corporate.homedepot.com/about,about,
+MCD,1,corporate.mcdonalds.com/corpmcd/about-us.html,about,
+MCD,2,corporate.mcdonalds.com/mcd/our_company.html,about,older URL
+NKE,1,about.nike.com/en/topics/purpose,values,found via CDX prefix search; from ~2023
+NKE,2,about.nike.com,about,
+SBUX,1,starbucks.com/about-us/company-information/mission-statement,values,
+SBUX,2,about.starbucks.com,about,
+TGT,1,corporate.target.com/about,about,
+LOW,1,corporate.lowes.com/who-we-are,about,found via CDX prefix search; from ~2020
+TJX,1,tjx.com/company,about,
+TJX,2,tjx.com/about/index.html,about,older URL; found via CDX prefix search
+F,1,corporate.ford.com/company.html,about,
+XOM,1,corporate.exxonmobil.com/en/company/about-us/guiding-principles,values,
+XOM,2,corporate.exxonmobil.com/company/who-we-are/our-guiding-principles,values,2020 URL; found via CDX prefix search
+XOM,3,corporate.exxonmobil.com/en/company/who-we-are/our-guiding-principles,values,2020-21 URL; found via CDX prefix search
+XOM,4,corporate.exxonmobil.com/about-us/who-we-are/our-guiding-principles,values,2021-22 URL; found via CDX prefix search
+XOM,5,corporate.exxonmobil.com/who-we-are,about,
+CVX,1,chevron.com/about/the-chevron-way,values,The Chevron Way
+CVX,2,chevron.com/about,about,
+COP,1,conocophillips.com/about-us/mission-vision,values,found via CDX prefix search
+COP,2,conocophillips.com/who-we-are/our-company/spirit-values/Pages/default.aspx,values,"SPIRIT values, old SharePoint site; found via CDX prefix search"
+COP,3,conocophillips.com/about-us,about,
+COP,4,conocophillips.com/who-we-are/our-company/pages/default.aspx,about,old SharePoint site; found via CDX prefix search
+EOG,1,eogresources.com/culture,values,"linked as Culture from the company hub page (href=""/culture"")"
+EOG,2,eogresources.com/company,about,
+EOG,3,eogresources.com/about/overview.html,about,older URL; found via CDX prefix search
+EOG,4,eogresources.com/about,about,found via CDX prefix search
+SLB,1,slb.com/about,about,
+SLB,2,slb.com/about.aspx,about,older URL
+MPC,1,marathonpetroleum.com/About,about,
+MPC,2,marathonpetroleum.com/about_mpc,about,older URL; found via CDX prefix search
+PSX,1,phillips66.com/en/about/pages/visionandvalues.aspx,values,older URL; found via CDX prefix search
+PSX,2,phillips66.com/about,about,
+PSX,3,phillips66.com/en/about/pages/index.aspx,about,older URL; found via CDX prefix search
+VLO,1,valero.com/about,about,
+VLO,2,valero.com/en-us/AboutValero,about,older URL
+OXY,1,oxy.com/aboutoccidental/pages/vision-and-values.aspx,values,old SharePoint site; found via CDX prefix search
+OXY,2,oxy.com/about,about,
+OXY,3,oxy.com/aboutoccidental/pages/default.aspx,about,old SharePoint site; found via CDX prefix search
+HAL,1,halliburton.com/en/about-us,about,
+HAL,2,halliburton.com/en-US/about-us/default.html,about,older URL
+HAL,3,halliburton.com/en-us/about-us/default.page,about,2016-18 URL; found via CDX prefix search

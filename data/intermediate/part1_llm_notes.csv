@@ -1,0 +1,420 @@
+ticker,year,analyst_notes
+MSFT,2016,"Initial values statement with a balanced focus on innovation, diversity, inclusion, integrity, and environmental sustainability."
+MSFT,2017,No substantive changes to the values or mission statements from 2016.
+MSFT,2018,Values remained unchanged from 2017.
+MSFT,2019,"Significant shift in mission and added new values related to technology for good, AI ethics, and corporate social responsibility."
+MSFT,2020,Further emphasis on fostering a sustainable future through technology with broader statements about corporate social responsibility.
+MSFT,2021,Added content discussing Microsoft's response to COVID-19 but did not significantly alter existing values or mission statements.
+MSFT,2022,Values remained unchanged from 2021.
+MSFT,2023,Values remained unchanged from 2022.
+MSFT,2024,Values remained unchanged from 2023.
+AAPL,2016,"Focuses heavily on diversity and inclusion, with some mentions of employee development and performance."
+AAPL,2017,"Expands the definition of diversity to include individual backgrounds and perspectives, emphasizing specific actions taken."
+AAPL,2018,"Shifts focus from initiatives to broader cultural principles, with a stronger emphasis on metrics related to leadership roles and new hires."
+AAPL,2019,"Explicitly states commitment to inclusion and diversity, with specific support for LGBTQ+ rights and more prominent mention of Diversity Network Associations."
+AAPL,2020,"Content remains unchanged from the previous year, focusing on inclusion and employee development."
+AAPL,2021,"Focuses on specific metrics and actions towards diversity and inclusion, moving away from general statements about culture."
+AAPL,2022,"Emphasizes a culture where everyone belongs and innovation through community, with less focus on specific diversity metrics."
+AAPL,2023,"Content remains unchanged from the previous year, focusing on inclusion and employee development."
+AAPL,2024,"Significant shift towards new initiatives in accessibility and inclusive design, with a broader emphasis on representation in leadership and underrepresented communities."
+NVDA,2018,"The page focuses heavily on innovation, with no other primary themes."
+NVDA,2019,"Content remains unchanged from the previous year, focusing solely on innovation."
+NVDA,2020,"Content remains unchanged from the previous year, focusing solely on innovation."
+NVDA,2021,"Content remains unchanged from the previous year, focusing solely on innovation."
+NVDA,2023,The page continues to emphasize innovation but introduces new themes like customer impact and sustainability.
+NVDA,2024,"A significant shift towards emphasizing AI, digital twins, performance, and environmental sustainability. The metaverse is no longer a focus."
+GOOGL,2016,"Focuses on agility, customer experience, innovation, diversity and inclusion, community impact, and employee development. Values remain consistent with the company's mission to provide user-centric services."
+GOOGL,2017,"Values statement unchanged from prior year, emphasizing the same core themes as in 2016."
+GOOGL,2018,No changes noted; values remain consistent with previous years.
+GOOGL,2019,"Values statement remains stable, focusing on user experience, speed, innovation, diversity and inclusion, community impact, and employee development."
+GOOGL,2020,Continues to emphasize the same core values as in previous years without any changes.
+GOOGL,2021,"Values statement unchanged from prior year; consistent focus on user experience, speed, innovation, diversity and inclusion, community impact, and employee development."
+GOOGL,2022,No changes noted in the values statement; core themes remain consistent with previous years.
+GOOGL,2023,"Values statement unchanged from prior year; consistent focus on user experience, speed, innovation, diversity and inclusion, community impact, and employee development."
+GOOGL,2024,No changes noted in the values statement; core themes remain consistent with previous years.
+META,2016,Primary focus on innovation with some mentions of agility.
+META,2017,"Mission statement expanded to include collaboration, community, diversity & inclusion, and respect."
+META,2018,Values remained unchanged but mission statement was rephrased for clarity.
+META,2019,New values and principles introduced while maintaining core values.
+META,2020,"Values remained stable with a focus on community, customer service, execution, integrity, and respect."
+META,2021,Values remained unchanged focusing on similar themes as in 2020.
+META,2022,"Mission shifted to emphasize technological innovation, privacy, and safety in the metaverse."
+META,2023,Wording changed but meaning remained consistent with a focus on customer service and environmental sustainability.
+META,2024,Content unchanged focusing on similar themes as in 2023.
+AVGO,2016,"Execution and innovation were emphasized, with a focus on operational excellence and product diversity."
+AVGO,2017,"The language remained unchanged from the previous year, continuing to highlight execution and innovation."
+AVGO,2018,"Execution and innovation were still emphasized, but there was a slight shift in positioning towards 'global infrastructure technology leader.'"
+AVGO,2019,A significant expansion of value categories to include collaboration and customer focus. The mission statement now includes broader technological solutions.
+CRM,2016,"Focus on innovation, customer relationships, and performance; CRM solution highlighted."
+CRM,2017,"Shift to AI, customer-centricity, and execution; Ohana introduced."
+CRM,2018,"Emphasis on agility, customer impact, and innovation; focus on technological advancements."
+CRM,2019,Rewritten core values with 'Ohana'; retained similar meaning but updated language.
+CRM,2020,Updated market definitions and added new product mentions without significant changes to values.
+CRM,2021,"No significant changes; continued focus on customer-centricity, innovation, and performance."
+CRM,2022,"Broadened mission to include diversity, sustainability, and employee wellbeing; emphasized teamwork and community impact."
+CRM,2023,Shifted back to customer-centricity but with a focus on corporate social responsibility through the 1-1-1 model and Pledge 1%.
+CRM,2024,Returned to emphasizing community impact and employee wellbeing development; reintroduced the 1-1-1 model.
+ORCL,2017,Performance-focused with no values statements.
+ORCL,2018,Performance metrics updated but remained consistent.
+ORCL,2019,Shifted to innovation and customer focus; values redefined.
+ORCL,2020,Content overhaul with no core value changes.
+ORCL,2021,No significant changes from 2020 content.
+ORCL,2022,Added new sections but kept values unchanged.
+ORCL,2023,Removed core value statements and focused on business achievements.
+ORCL,2024,"Content remained consistent with previous years, focusing on performance and innovation."
+IBM,2016,"Emphasizes customer, innovation, and integrity with detailed descriptions."
+IBM,2017,"Content unchanged from the previous year, maintaining focus on customer, innovation, and integrity."
+IBM,2018,"Significantly rewrote core values to emphasize innovation and collaboration between humans and machines, removing detailed descriptions."
+IBM,2019,"Content unchanged from the previous year, maintaining a focus on customer, execution, innovation, integrity, and performance with more abstract language."
+IBM,2020,"Content unchanged from the previous year, maintaining a focus on customer, execution, innovation, integrity, and performance with more abstract language."
+IBM,2021,"Removed detailed explanations of core values, focusing instead on achievements and innovations in technology and sustainability."
+IBM,2022,Briefly described the IBM Fellows program and emphasized collaboration as a key value.
+IBM,2023,"Added content emphasizing technology's role in solving real-world problems and sustainability goals, along with education programs for underrepresented communities."
+IBM,2024,"Removed the phrase 'We make the world work better' and focused on IBM's role in solving business problems, sustainability efforts, and employee development."
+INTC,2016,"Primary focus on diversity and innovation, with some environmental sustainability mentions."
+INTC,2017,Shifted to emphasize innovation more explicitly and added performance as a primary value.
+INTC,2018,"Removed the mission statement and focused on diversity, integrity, and promotional content."
+INTC,2019,"Content unchanged from 2018, maintaining a focus on diversity and integrity."
+INTC,2020,"Significant shift to customer-centric values with an emphasis on execution, innovation, and performance."
+INTC,2021,Shifted back towards technological innovation while emphasizing corporate responsibility and global impact.
+INTC,2022,"Values and mission statements were significantly rewritten to focus on agility, collaboration, customer success, diversity, execution, innovation, and integrity."
+INTC,2023,"Further emphasis on technological innovation, manufacturing capabilities, and corporate strategy while maintaining a strong focus on collaboration and diversity."
+INTC,2024,"Content unchanged from 2023, continuing the focus on agility, collaboration, customer success, diversity, execution, innovation, and integrity."
+BRK.B,2016,No values page available.
+BRK.B,2017,No values page available.
+BRK.B,2018,No values page available.
+BRK.B,2019,No values page available.
+BRK.B,2020,No values page available.
+BRK.B,2021,No values page available.
+BRK.B,2022,No values page available.
+BRK.B,2023,No values page available.
+BRK.B,2024,"The page removed several elements related to insurance quotes and contact information, along with the copyright date. Performance was the only category mentioned."
+JPM,2016,Primarily focused on performance metrics.
+JPM,2017,No change in values or mission statements.
+JPM,2018,Updated financial metrics but no change to the values or mission statements.
+JPM,2019,No change in values or mission statements.
+JPM,2020,"Shifted focus from performance to diversity, inclusion, integrity, and a more holistic approach."
+JPM,2021,Maintained the new values-driven content.
+JPM,2022,Continued with the same values emphasis.
+JPM,2023,"Stable focus on diversity, inclusion, integrity, and performance."
+JPM,2024,Shifted to a broader set of principles including community social impact and employee wellbeing development.
+BAC,2016,"Emphasizes customer service, diversity, inclusion, and respect."
+BAC,2017,Content remains unchanged from the previous year.
+BAC,2018,"Shifts to a broader set of themes including collaboration, performance, and employee wellbeing."
+BAC,2019,Removed values-focused content in favor of recent initiatives and commitments.
+BAC,2020,"Focused on racial equality, economic opportunity during the pandemic, community support, and environmental projects."
+BAC,2021,Emphasizes environmental initiatives and stories about supporting employees during the pandemic.
+BAC,2022,"Shifts to a focus on responsible business practices, client service, and governance."
+BAC,2023,"Emphasizes community impact, racial equality, sustainable finance, and diversity initiatives."
+BAC,2024,"Returns to a focus on customer-centricity, performance, and recognition awards while maintaining commitments to diversity and employee wellbeing."
+WFC,2016,"Emphasizes collaboration, customer focus, integrity, respect, and diversity & inclusion."
+WFC,2017,Shifts to a more concise mission with less historical context.
+WFC,2018,"Focuses on customer service, diversity, execution, integrity, performance, and respect."
+WFC,2019,Values remain unchanged but are overshadowed by financial performance and employee development links.
+WFC,2020,Values remain unchanged but are overshadowed by financial performance and employee development links.
+WFC,2021,"Shifts focus to financial performance, leadership team information, and community impact."
+WFC,2022,Removes the 'Learn about our history and values' section.
+WFC,2023,Continues to focus on financial performance and employee development.
+WFC,2024,Continues to focus on financial performance and employee development.
+GS,2016,"Primary themes include customer focus, execution, innovation, performance, and respect; values are well-defined."
+GS,2017,Values content remains unchanged from the previous year.
+GS,2018,Values content remains unchanged from the previous year.
+GS,2019,The values page was replaced with a general about us statement focusing on performance and client service.
+GS,2020,Content is unchanged; focus remains on performance and anticipating clients' needs.
+GS,2021,Content is unchanged; focus remains on performance and anticipating clients' needs.
+GS,2022,Content is unchanged; focus remains on performance and anticipating clients' needs.
+GS,2023,Content is unchanged; focus remains on performance and anticipating clients' needs.
+GS,2024,Content is unchanged; focus remains on performance and anticipating clients' needs.
+MS,2016,"Emphasizes financial performance, community involvement, and environmental initiatives."
+MS,2017,Content remains unchanged from the previous year.
+MS,2018,Content remains unchanged from the previous year.
+MS,2019,Content remains unchanged from the previous year.
+MS,2020,"Shifts focus to environmental and social sustainability, with a strong emphasis on private sector capital for positive change."
+MS,2021,Content remains unchanged from the previous year.
+MS,2022,Content remains unchanged from the previous year.
+MS,2023,Content remains unchanged from the previous year.
+MS,2024,Content remains unchanged from the previous year.
+BLK,2016,"Primary focus on performance with mentions of community, customer, employee wellbeing, and environment sustainability."
+BLK,2017,Removed values content in favor of financial figures and new mission-related content.
+BLK,2018,"Added principles around client focus, courage, diversity, expertise, communication, and innovation."
+BLK,2019,Shifted from fiduciary duty to a more performance-driven culture with less emphasis on cultural principles.
+BLK,2020,"Emphasized thought leadership and cultural principles more explicitly, removing previous statements about being a fiduciary."
+BLK,2021,"Rewritten mission statement to focus more broadly on financial well-being and purpose, with less specific cultural language."
+BLK,2022,"Mission statement remained unchanged from the prior year, focusing on performance and customer-centricity."
+BLK,2023,"Mission statement remained unchanged from the prior year, focusing on performance and customer-centricity."
+BLK,2024,Shifted to a new mission statement emphasizing 'Mega forces' in investing alongside the BLACKROCK INVESTMENT INSTITUTE.
+SCHW,2016,Primary focus on respect with secondary themes of innovation and performance.
+SCHW,2017,"Shifted to a more product-centric approach, focusing on awards and recent achievements without introducing new values or mission statements."
+SCHW,2018,"Continued focus on innovation with additional themes of performance, environment sustainability, and employee wellbeing development."
+SCHW,2019,"Significant shift to a purpose-centric approach emphasizing client-centricity, innovation, and ethical treatment. New mission and values statements were introduced."
+SCHW,2020,Values remained unchanged from the previous year.
+SCHW,2021,Values remained unchanged from the previous year.
+SCHW,2022,Values remained unchanged from the previous year.
+SCHW,2023,Values remained unchanged from the previous year.
+SCHW,2024,"Mission statement was rewritten to emphasize 'champions' and 'modern way,' reflecting a change in tone rather than content."
+AXP,2017,Shifted focus to customer experience and innovation.
+AXP,2018,No changes noted; mission statement remained consistent.
+AXP,2019,"Significant shift towards values-based language with a stronger emphasis on integrity, diversity, and inclusion."
+AXP,2020,Values remained consistent from the previous year.
+AXP,2021,Increased focus on community impact and explicit commitments to an inclusive culture.
+AXP,2022,Rewritten mission statement with a stronger emphasis on customer relationships and environmental sustainability.
+AXP,2023,"Removed values and mission content, focusing instead on external links and information."
+AXP,2024,No substantive changes to the company's values or mission statements from the previous year.
+C,2016,Emphasizes customer service and performance.
+C,2017,Content remains unchanged from the previous year.
+C,2018,Content remains unchanged from the previous year.
+C,2019,Content remains unchanged from the previous year.
+C,2020,Content remains unchanged from the previous year.
+C,2021,Content remains unchanged from the previous year.
+C,2022,Content remains unchanged from the previous year.
+C,2023,"Shifts focus to environmental sustainability and execution principles, removing previous content."
+C,2024,Expands mission to include financial figures and business operations scope.
+LLY,2016,"Core values of execution, integrity, and respect were emphasized."
+LLY,2017,Core values explicitly defined with additional emphasis on employee wellbeing.
+LLY,2018,Values remained unchanged from the previous year.
+LLY,2019,"Mission statement updated to focus on creating medicines that make life better, but core values stayed consistent."
+LLY,2020,Core values rephrased slightly with no significant change in meaning or emphasis.
+LLY,2024,Shift towards customer-centricity and environmental sustainability; traditional business values downplayed.
+UNH,2016,"Focused on performance, sustainability, and employee development."
+UNH,2017,"Shifted to a more values-driven mission with a focus on innovation, collaboration, and customer service."
+UNH,2018,Values remained consistent but were rephrased for clarity and emphasis.
+UNH,2019,Values statements unchanged from the previous year.
+UNH,2020,"Content focused on integrity, performance, and collaboration without specific values statements."
+UNH,2021,Mission shifted to focus on health equity and governance principles.
+UNH,2022,"Emphasized community impact, diversity, execution, and performance."
+UNH,2023,"Values rephrased to emphasize quality, urgency, diversity, and innovation."
+UNH,2024,"Condensed values focused on collaboration, diversity, innovation, integrity, performance, and respect."
+JNJ,2016,Primary focus on performance with a nod to innovation.
+JNJ,2017,"Mission and values statements were removed, replaced by legal content."
+JNJ,2018,"Introduction of the Credo with a broad set of values centered on ethics, inclusivity, employee well-being, and social impact."
+JNJ,2019,"Rephrasing and emphasis on patient-centricity, inclusivity, employee well-being, global health impact, and environmental sustainability."
+JNJ,2020,Values remained unchanged from the previous year.
+JNJ,2021,Values remained unchanged from the previous year.
+JNJ,2022,Values remained unchanged from the previous year.
+JNJ,2023,Values remained unchanged from the previous year.
+JNJ,2024,Values remained unchanged from the previous year.
+ABBV,2016,Focus on customer-centricity.
+ABBV,2017,"New focus on innovation, collaboration, and global impact. Removed 'FINDING BETTER WAYS TO HELP PATIENTS' slogan."
+ABBV,2018,Shift to general_about page without detailing values or mission.
+ABBV,2019,Rewritten mission statement emphasizing vision and purpose over impact.
+ABBV,2020,"No significant changes, continued focus on innovation and customer."
+ABBV,2021,Added execution as a theme alongside innovation and customer.
+ABBV,2022,"Expanded mission statement to include diversity_inclusion, integrity, and environment_sustainability."
+ABBV,2023,"No significant changes from 2022, continued focus on innovation, customer, diversity_inclusion, integrity, and environment_sustainability."
+ABBV,2024,"Shifted to emphasize patient-centricity, execution, and innovation alongside integrity."
+MRK,2016,Focuses heavily on innovation and performance.
+MRK,2017,"Shifts to a more values-driven approach, emphasizing DE&I alongside other core themes."
+MRK,2018,Content remains unchanged from the previous year.
+MRK,2019,Content remains unchanged from the previous year.
+MRK,2020,"Rewritten mission statement emphasizes innovation and research, removing historical details."
+MRK,2021,Updated history and added new sentences about responding to the COVID-19 pandemic.
+MRK,2022,Mission statement rewritten to focus on using leading-edge science for global health.
+MRK,2023,"Content remains unchanged from the previous year, focusing on innovation and research."
+MRK,2024,Mission statement rewritten with a focus on DE&I. Values section significantly expanded.
+TMO,2016,Primary emphasis on customer satisfaction with secondary performance metrics.
+TMO,2017,Mission statement update without significant changes in values.
+TMO,2018,"Added innovation and performance themes, broadened customer benefits."
+TMO,2019,Content remained unchanged from the previous year.
+TMO,2020,Minor wording adjustments but core values stayed consistent.
+TMO,2021,"Content remained unchanged from the previous year, maintaining focus on customer and innovation."
+TMO,2022,Mission statement removed; new content focused on specific brands and services.
+TMO,2023,"Content remained unchanged from the previous year, focusing on innovation and performance."
+TMO,2024,Mission statement shifted to a more concise focus on end-to-end pharmaceutical services with new themes of environment sustainability.
+ABT,2016,Primary focus on innovation.
+ABT,2017,Mission statement changed to 'Abbott is in the business of life.'
+ABT,2018,"Minor wording changes, still customer-centric and includes environmental and performance themes."
+ABT,2019,Mission statement shifted to focus on making the world a better place through life-changing technologies.
+ABT,2020,"Values remained unchanged, focusing on customer and innovation."
+ABT,2021,"Values remained unchanged, focusing on customer and innovation."
+ABT,2022,"Values remained unchanged, focusing on customer and innovation."
+ABT,2023,"Values remained unchanged, focusing on customer and innovation."
+ABT,2024,No substantive changes; performance language added.
+PFE,2016,"Customer-centric and innovation-focused, with a strong performance orientation."
+PFE,2017,"Content remained stable, focusing on customer, innovation, and performance."
+PFE,2018,"Removed values content, focusing instead on emergency response and specific health initiatives."
+PFE,2019,Shifted to a more mission-driven approach with an emphasis on social impact and ethical practices.
+PFE,2020,"Content shifted significantly, focusing on diversity, employee wellbeing, and environmental sustainability."
+PFE,2021,"Expanded to include more values and mission statements, with a focus on diversity and employee wellbeing."
+PFE,2022,"Content remained stable, focusing on customer, innovation, respect, and environmental sustainability."
+PFE,2023,"Content remained stable, focusing on customer, innovation, respect, and environmental sustainability."
+PFE,2024,"Content remained stable, focusing on customer, innovation, respect, and environmental sustainability."
+MDT,2016,"Primary themes were integrity and performance, with a broad range of values mentioned."
+MDT,2017,Content remained unchanged from the previous year.
+MDT,2018,Content remained unchanged from the previous year.
+MDT,2019,Rewritten mission statement added emphasis on employee wellbeing and impact.
+MDT,2020,"Mission statement was rewritten but retained core values, emphasizing employee worth more prominently."
+MDT,2021,Content remained unchanged from the previous year.
+MDT,2022,"Mission statement underwent a significant rewrite focusing on customer service and execution, with less emphasis on respect for employees."
+MDT,2023,Content remained unchanged from the previous year.
+MDT,2024,Content remained unchanged from the previous year.
+BMY,2016,Primary themes were environment_sustainability and innovation. The page emphasized performance and customer focus.
+BMY,2017,"The mission was rewritten to emphasize patient access, agility, and sustainability more prominently."
+BMY,2018,"Content remained unchanged from the previous year. Themes of agility, collaboration, customer focus, environment_sustainability, and community engagement were maintained."
+BMY,2019,Added content related to community engagement and a new section titled 'AtlanticLIVE'. The mission statement was rewritten to focus on patient-centeredness and innovation.
+BMY,2020,"Mission and values statements were significantly revised, emphasizing patient-centeredness, execution, integrity, respect, and performance. Added a new section on diversity and inclusion."
+BMY,2021,"Mission statement was rewritten to focus on discovering, developing, and delivering innovative medicines. Themes of agility, collaboration, customer focus, diversity_inclusion, execution, innovation, integrity, performance, respect, environment_sustn"
+BMY,2022,Content remained unchanged from the previous year.
+BMY,2023,"Added new values and principles related to ethics, diversity, sustainability, and social responsibility. Themes of agility, collaboration, customer focus, and diversity_inclusion were maintained."
+BMY,2024,Content remained unchanged from the previous year.
+AMZN,2016,"Values remained consistent with a focus on customer obsession, innovation, execution, integrity, and respect."
+AMZN,2017,No changes noted; values statements were unchanged from the previous year.
+AMZN,2018,No changes noted; values statements were unchanged from the previous year.
+AMZN,2019,No changes noted; values statements were unchanged from the previous year.
+AMZN,2020,No changes noted; values statements were unchanged from the previous year.
+AMZN,2021,New principles introduced: 'Strive to be Earth's Best Employer' and detailed descriptions of leadership behaviors such as leading with empathy and having a vision for employees' personal success.
+AMZN,2022,No changes noted; values statements were unchanged from the previous year.
+AMZN,2023,"Significant reorganization to four core principles: customer obsession, invention, operational excellence, and long-term thinking. New mission statements added about Amazon's broader role as Earth’s most customer-centric company, best employer, and a"
+AMZN,2024,No changes noted; values statements remained consistent with the new framework introduced in 2023.
+TSLA,2016,Primarily focused on innovation and performance with a hint of environmental sustainability.
+TSLA,2017,"Content remained unchanged, still emphasizing innovation and performance."
+TSLA,2018,"Mission expanded to include sustainable energy ecosystem, agility, and customer focus."
+TSLA,2019,"Removed production target content, added safety training emphasis."
+TSLA,2020,"Content remained unchanged, focusing on factory safety."
+TSLA,2021,"Content remained unchanged, focusing on factory safety."
+TSLA,2022,"Content remained unchanged, focusing on factory safety."
+TSLA,2023,Mission statement rewritten to emphasize environmental sustainability and operational scale with a focus on employee wellbeing.
+TSLA,2024,"No substantive changes; continued emphasis on performance, innovation, and environmental goals."
+HD,2016,Primary focus on customer and execution with performance as a secondary theme.
+HD,2017,No changes noted from the previous year.
+HD,2018,Removed several sentences without replacement; primary themes remained unchanged.
+HD,2019,Content was unchanged from the prior year.
+HD,2020,Content was unchanged from the prior year.
+HD,2021,Content was unchanged from the prior year.
+HD,2022,Content was unchanged from the prior year.
+HD,2023,Content was unchanged from the prior year.
+HD,2024,Content was unchanged from the prior year.
+MCD,2016,Primary themes were customer satisfaction and innovation with a performance emphasis.
+MCD,2017,Content remained unchanged from the previous year.
+MCD,2018,Content stayed consistent with no changes made.
+MCD,2019,"Shifted to a broader set of values including diversity, inclusion, and environmental sustainability. Removed focus on performance."
+MCD,2020,"Removed sections related to diversity, inclusion, community engagement, and growth plans, focusing more on operational excellence and employee wellbeing."
+MCD,2021,"Rewrote the mission statement to emphasize customer experience, community service, and ethical practices. Added focus on execution and integrity."
+MCD,2022,"Added emphasis on long-term success and leading with purpose, maintaining a focus on diversity, inclusion, and employee wellbeing."
+NKE,2016,Primary focus on innovation with environmental sustainability as a secondary theme.
+NKE,2017,No significant changes; mission statement remained unchanged.
+NKE,2018,Mission statement significantly altered to emphasize business growth and environmental impact reduction. New values added for diversity and inclusion.
+NKE,2019,"Further refined the mission to focus on a fair, sustainable future with broader societal implications."
+NKE,2020,No significant changes; maintained consistent core values.
+NKE,2021,No significant changes; maintained consistent core values.
+NKE,2022,No significant changes; maintained consistent core values.
+SBUX,2017,"Execution, performance, and respect are emphasized."
+SBUX,2018,Content remains unchanged from the previous year.
+SBUX,2019,Content remains unchanged from the previous year.
+SBUX,2020,Content remains unchanged from the previous year.
+SBUX,2021,Content remains unchanged from the previous year.
+SBUX,2022,"Shifts to a broader purpose-driven approach, focusing on community social impact and employee wellbeing."
+SBUX,2023,Content remains unchanged from the previous year.
+SBUX,2024,"Emphasizes current initiatives in sustainability and innovation, removing historical content."
+TGT,2020,Revenue figures and profit distribution were added; design philosophy content was removed.
+TGT,2021,Updated revenue figures but no new values content introduced.
+LOW,2020,Primary themes were performance and customer. The page emphasized sales figures and community investments.
+LOW,2021,"The language remained unchanged from the previous year, focusing on serving customers and financial performance."
+LOW,2022,"A strategic shift was made to five areas of focus under the Total Home Strategy, but this did not change the primary emphasis on customer service."
+LOW,2023,"The page content remained consistent with previous years, emphasizing serving customers and financial performance."
+LOW,2024,The language continued to focus on the same themes as in prior years: customer service and financial performance.
+TJX,2016,Emphasizes performance and innovation with a customer-centric approach.
+TJX,2017,"Rewritten mission statement emphasizes delivering great value through brand, fashion, price, and quality."
+TJX,2018,Core values remain unchanged; updates on company size and financial performance.
+TJX,2019,"Minor rewording in the description of company size, financial performance, and mission statement."
+TJX,2020,Updates on financial and operational details without altering values or mission statements.
+TJX,2021,"Includes customer satisfaction, employee development, and environmental sustainability in the values statement."
+TJX,2022,"Focuses on agility, customer service, execution, innovation, and performance metrics."
+TJX,2023,Primarily updates financial rankings and store counts without changing stated values or mission statements.
+TJX,2024,"Updates performance metrics and mentions corporate responsibility but does not significantly alter the content about store count, business span, and environmental sustainability. No new values are introduced."
+F,2016,"Primary themes were environment_sustainability, execution, innovation, and performance. The page emphasized quality improvement, innovation, financial growth, and environmental responsibility."
+F,2017,No substantive changes; the core values remained consistent with 2016 content but rephrased slightly.
+F,2018,No new additions or significant shifts from prior years. The page continued to emphasize sustainability and community service.
+F,2019,"Shifted focus to global impact through technological advancement and innovation, with no new value statements added since 2016."
+F,2020,No substantive changes; the page continued to emphasize innovation as a core mission.
+F,2021,Shifted focus from technological advancement and innovation to helping build a better world where people can freely move and pursue their dreams. Emphasized community impact and employee wellbeing.
+F,2022,No new additions or significant shifts; the page continued to emphasize cultural values and beliefs.
+F,2023,Shifted back to a traditional focus on integrity and performance with no new value statements added since 2019.
+F,2024,No substantive changes; the page continued to emphasize integrity and performance as core values.
+XOM,2016,Primary themes were on performance and integrity. No new values introduced.
+XOM,2017,Content unchanged from the previous year. Performance and integrity remained primary themes.
+XOM,2018,Content unchanged from the previous year. Performance and integrity remained primary themes.
+XOM,2019,"Expanded guiding principles to include customer satisfaction, employee development, innovation, and environmental sustainability. A significant shift towards a more purpose-centric approach."
+XOM,2020,"Removed business conduct and mission-related statements, focusing on performance, customer service, and environment sustainability. Mission statements replaced detailed values."
+XOM,2021,Content unchanged from the previous year. Performance and integrity remained primary themes.
+XOM,2022,"Removed content about 'Who we are' article, added brief historical overview without referencing any values or principles. Performance and integrity remained primary themes."
+XOM,2023,Updated sentence on history and added new content on scientific perspectives for cleaner energy. Environment sustainability remained a key theme.
+XOM,2024,"Removed guiding principles related to shareholder commitment, customer satisfaction, innovation, workforce quality, safety, corporate citizenship, ethics, and operational focus. New mission statements focused on safe fuel provision and global energy."
+CVX,2016,"Emphasizes diversity, execution, innovation, integrity, performance, respect; mentions environment sustainability and community social impact."
+CVX,2017,Shifts focus to agility and collaboration while removing detailed values statements.
+CVX,2018,No new content added; repeats previous year's themes.
+CVX,2019,Repeats previous year's themes without changes.
+CVX,2020,Shifts focus to execution and innovation while removing performance-focused statements.
+CVX,2021,Includes purpose and values in The Chevron Way; adds new beliefs about innovation and solving energy challenges.
+CVX,2022,"Rephrases 'The Chevron Way' to include past, present, and future; adds new sentences about the company's purpose, values, and vision."
+CVX,2023,"No changes in content from previous year; focuses on performance, innovation, and diversity inclusion."
+CVX,2024,"Content remains unchanged; continues to focus on performance, innovation, and diversity inclusion."
+COP,2016,"Focus on community impact, innovation, and integrity; values statement."
+COP,2017,No changes in wording or themes from the previous year.
+COP,2018,Shift to operational performance and efficiency; general about page content.
+COP,2019,Reframed core values as 'Accountability + Performance'; values statement.
+COP,2020,Emphasized commitment to fulfilling promises through 'Performance'; values statement.
+COP,2021,Shifted back to operational capabilities and global energy supply; general about page content.
+COP,2022,Added sustainability focus while maintaining performance emphasis; general about page content.
+COP,2023,Returned to 'Accountability + Performance' values with a focus on operational scale and technical capabilities; values statement.
+COP,2024,"Balanced approach including innovation, environmental sustainability, customer focus, and employee wellbeing; general about page content."
+EOG,2016,Primarily focused on performance metrics.
+EOG,2017,Started to emphasize innovation and technology integration.
+EOG,2018,Shifted focus to a more entrepreneurial culture with an emphasis on employee empowerment and technological advancement.
+EOG,2019,Content unchanged; focused on employee benefits.
+EOG,2020,Content unchanged; focused on employee benefits.
+EOG,2021,Reorganized content for employee benefits but kept the same focus.
+EOG,2022,Changed wording related to cultural success metrics.
+EOG,2023,Emphasized innovation and a holistic approach to employee well-being.
+EOG,2024,Introduced new safety culture principles focusing on teamwork and incremental improvements.
+SLB,2016,Primary focus on innovation with secondary emphasis on sustainability.
+SLB,2017,"Added community and employee development themes, removed some historical details."
+SLB,2018,Removed specific historical details but maintained focus on sustainability and employee development.
+SLB,2019,Content remained unchanged from the previous year.
+SLB,2020,"Mission and values rephrased to emphasize innovation, sustainability, and social responsibility."
+SLB,2021,Content remained unchanged from the previous year.
+SLB,2022,"Significant rewrite of mission and values to emphasize collaboration, customer-centricity, diversity & inclusion, digital solutions, and environmental stewardship."
+SLB,2023,"Rewritten content with a focus on agility, performance, innovation, integrity, and sustainability. Removed 'Decarbonize Your Operations' phrase."
+SLB,2024,"Mission and values significantly rewritten to emphasize execution, innovation, and net-zero targets."
+MPC,2016,Primarily focused on performance metrics.
+MPC,2017,"Non-values content updated, but values remained unchanged."
+MPC,2018,"Non-values content updated, broader overview of operations provided."
+MPC,2019,"Shifted to emphasize employee dedication, corporate citizenship, and core values like safety, environmental stewardship, integrity, respect, inclusion, and collaboration."
+MPC,2020,Rephrased core values with 'creating shared value' and new wording for existing values.
+MPC,2021,Minor wording adjustments to the same content as in 2020.
+MPC,2022,Content remained unchanged from previous year.
+MPC,2023,Content remained unchanged from previous year.
+MPC,2024,Content remained unchanged from previous year.
+PSX,2016,Emphasizes integrity with secondary themes of environment sustainability and performance.
+PSX,2017,"Content remains unchanged from the previous year, focusing on integrity, environment sustainability, and performance."
+PSX,2018,"Shifts to a new set of core values: safety, honor, and commitment. Emphasizes execution and innovation."
+PSX,2019,Updates the mission statement to focus on maximizing earnings and financial strength.
+PSX,2020,Shifts from a detailed values statement to emphasizing employee commitment and heritage.
+PSX,2021,Rewrites the mission and values statement to include community impact and environmental sustainability while maintaining focus on execution and integrity.
+PSX,2022,Encourages innovation and focuses on agility and collaboration without a detailed values statement.
+VLO,2016,Primarily focused on performance metrics.
+VLO,2017,Numerical values and geographical details were updated but the core mission statement remained similar.
+VLO,2018,Started to include employee wellbeing alongside performance.
+VLO,2019,Core information remained unchanged; operational details were updated.
+VLO,2020,Shifted focus to guiding principles and strategic goals.
+VLO,2021,"Content was unchanged but focused on safety, environment, community, employees, and governance."
+VLO,2022,"Content remained stable with a continued emphasis on safety, environment, community, employees, and governance."
+VLO,2023,Updated operational details but maintained the same values focus as in 2020.
+VLO,2024,Shifted to highlighting new achievements and initiatives rather than core mission statements.
+OXY,2016,"Primary themes were execution, innovation, and integrity; no changes noted."
+OXY,2017,Content remained unchanged from the previous year.
+OXY,2018,Content remained unchanged from the previous year.
+OXY,2019,Content remained unchanged from the previous year.
+OXY,2020,Content remained unchanged from the previous year.
+OXY,2021,Content remained unchanged from the previous year.
+OXY,2022,"The company's values and mission statements were rewritten with a stronger focus on innovation, sustainability, and bold action. Phrases like 'unlock potential by reaching for the impossible' and 'lead the industry by reaching for the impossible,then"
+OXY,2023,Content remained unchanged from the previous year.
+OXY,2024,Content remained unchanged from the previous year.
+HAL,2016,Emphasizes employee wellbeing and development.
+HAL,2017,No significant changes in values content.
+HAL,2018,"Increased emphasis on optimizing production, but still focuses on employee wellbeing."
+HAL,2019,Added sustainability as a core value.
+HAL,2020,Sustainability statement remained unchanged.
+HAL,2021,"Expanded descriptions of values, mission, and principles with more detail on collaboration, diversity & inclusion, execution, integrity, respect, and performance."
+HAL,2022,Removed historical background information but retained core values and principles.
+HAL,2023,"Rephrased mission and purpose without changing the core values or principles, adding more detail on environment sustainability."
+HAL,2024,"Rewrote mission and values with a focus on customer, innovation, and environmental sustainability, moving away from general statements about company culture."

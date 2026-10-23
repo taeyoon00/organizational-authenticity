@@ -1,0 +1,54 @@
+450 proxies from 50 firms; median 50,373 words
+Rates are mentions per 10,000 words.
+
+1. Over time (balanced panel, 50 firms with all 9 proxies)
+year                                 2016  2017  2018  2019  2020  2021  2022  2023  2024
+rate_agility                          0.0   0.0   0.0   0.0   0.1   0.1   0.1   0.1   0.1
+rate_collaboration                    0.5   0.5   0.6   0.7   0.8   1.2   1.3   1.2   1.3
+rate_customer                         5.3   5.7   6.3   7.1   8.0   9.1   8.9   9.7   9.7
+rate_diversity_inclusion              4.8   5.9   7.0   9.4  10.2  16.2  16.4  15.3  13.3
+rate_execution                        1.8   1.8   1.8   2.0   2.4   2.8   2.7   2.7   2.7
+rate_innovation                       2.2   2.2   2.4   2.6   2.8   3.1   3.4   4.1   4.5
+rate_integrity                        4.9   5.2   5.2   5.5   6.0   6.0   6.6   7.2   7.4
+rate_performance                      7.1   7.3   7.7   8.5   8.3   8.5   8.9  11.9  12.6
+rate_respect                          0.4   0.3   0.4   0.4   0.6   0.6   0.8   1.0   1.3
+rate_environment_sustainability       7.9   8.0   8.0  10.0  13.1  17.0  26.0  27.3  25.6
+rate_community_social_impact          2.8   2.9   3.4   3.9   5.3   6.7   6.6   5.4   5.2
+rate_employee_wellbeing_development   0.8   0.8   1.1   1.7   2.7   4.0   4.8   4.8   5.1
+tone_commitment                      26.2  26.8  26.8  28.3  28.9  32.4  35.4  35.8  34.9
+tone_hedging                         30.6  31.1  29.8  28.8  30.1  30.0  29.5  27.5  26.8
+tone_numbers                         36.0  34.6  36.8  38.0  38.2  36.7  39.2  38.0  38.5
+
+   DEI language, firm by firm: up 2016->2022 in 96% of firms; down 2022->2024 in 68%
+
+2. By sector (all proxies)
+sector                               Consumer Discretionary  Energy  Financials  Healthcare  Technology
+rate_agility                                            0.1     0.1         0.1         0.1         0.1
+rate_collaboration                                      0.9     0.7         0.9         1.3         0.6
+rate_customer                                           9.0     2.2        15.1         8.0         4.5
+rate_diversity_inclusion                               12.4     6.7        15.0         9.1        11.6
+rate_execution                                          1.6     2.6         3.3         2.0         2.1
+rate_innovation                                         2.9     1.6         1.4         6.3         3.0
+rate_integrity                                          6.1     5.5         6.5         6.1         5.8
+rate_performance                                        7.2    10.8         6.9        11.1         8.8
+rate_respect                                            1.0     0.5         0.5         0.4         0.7
+rate_environment_sustainability                        13.3    29.5        18.7         8.3         9.6
+rate_community_social_impact                            5.0     3.5         6.9         3.6         4.3
+rate_employee_wellbeing_development                     3.9     2.0         3.8         2.6         2.0
+tone_commitment                                        38.2    28.9        23.1        32.9        29.9
+tone_hedging                                           31.0    29.2        28.0        25.1        33.4
+tone_numbers                                           34.6    39.5        34.7        44.2        33.7
+   diversity_inclusion: 36% of variance is between firms
+   environment_sustainability: 48% of variance is between firms
+   employee_wellbeing_development: 38% of variance is between firms
+   community_social_impact: 50% of variance is between firms
+
+3. Event windows (mean per period, balanced panel)
+period                               2016-20 baseline  2021-23 post-2020  2024 post-SFFA
+rate_diversity_inclusion                          7.5               16.0            13.3
+rate_environment_sustainability                   9.4               23.4            25.6
+rate_employee_wellbeing_development               1.4                4.5             5.1
+rate_community_social_impact                      3.7                6.2             5.2
+tone_commitment                                  27.4               34.5            34.9
+tone_hedging                                     30.1               29.0            26.8
+tone_numbers                                     36.7               38.0            38.5

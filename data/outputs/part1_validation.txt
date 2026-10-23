@@ -1,0 +1,26 @@
+1. Reliability: 96 consecutive-year pairs with byte-identical text, coded independently
+   identical theme sets 61%, mean Jaccard 0.85
+   agility                          agreement 98%  kappa 0.49
+   collaboration                    agreement 93%  kappa 0.70
+   customer                         agreement 98%  kappa 0.96
+   diversity_inclusion              agreement 98%  kappa 0.93
+   execution                        agreement 98%  kappa 0.94
+   innovation                       agreement 91%  kappa 0.81
+   integrity                        agreement 95%  kappa 0.86
+   performance                      agreement 90%  kappa 0.79
+   respect                          agreement 89%  kappa 0.68
+   environment_sustainability       agreement 93%  kappa 0.84
+   community_social_impact          agreement 91%  kappa 0.73
+   employee_wellbeing_development   agreement 92%  kappa 0.68
+   -> the final dataset therefore carries a page's coding forward while its text is unchanged (step 5)
+
+2. Convergent validity: LLM vs dictionary coder, 425 observed pages
+   diversity_inclusion          LLM 29%  dictionary 41%  agreement 80%  kappa 0.57  LLM-only 16  dictionary-only 68
+   environment_sustainability   LLM 43%  dictionary 51%  agreement 76%  kappa 0.52  LLM-only 33  dictionary-only 69
+   community_social_impact      LLM 26%  dictionary 59%  agreement 62%  kappa 0.30  LLM-only 12  dictionary-only 150
+   integrity                    LLM 28%  dictionary 44%  agreement 75%  kappa 0.47  LLM-only 20  dictionary-only 87
+   innovation                   LLM 54%  dictionary 58%  agreement 78%  kappa 0.56  LLM-only 37  dictionary-only 55
+   customer                     LLM 50%  dictionary 68%  agreement 70%  kappa 0.40  LLM-only 24  dictionary-only 104
+
+3. Change judgements vs human coder
+   no human labels yet: fill human_label in part1_change_review.csv

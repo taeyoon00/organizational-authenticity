@@ -1,0 +1,43 @@
+OAI computed for 416 company-years (50 firms); 9 undefined (no stated value variation)
+
+Distribution: mean 0.09, sd 0.30, quartiles -0.14 / 0.12 / 0.31, min -0.75, max 0.75
+Share of variance between firms: 41% (the rest is change within firms over time)
+
+By sector (mean OAI):
+                        mean   std  count
+sector                                   
+Consumer Discretionary  0.01  0.28     79
+Energy                  0.10  0.28     88
+Financials              0.06  0.34     81
+Healthcare              0.21  0.27     87
+Technology              0.05  0.28     81
+
+By year (mean OAI):
+year
+2016    0.10
+2017    0.11
+2018    0.04
+2019    0.06
+2020    0.09
+2021    0.12
+2022    0.09
+2023    0.12
+2024    0.06
+
+Validity (placebo): own-proxy OAI 0.09 vs other-firm proxies -0.00; own higher in 59% of company-years; mean difference 0.09 (t = 6.0)
+
+Lowest firm averages:
+ticker  company_name      
+JPM     JPMorgan Chase       -0.35
+BRK.B   Berkshire Hathaway   -0.31
+TSLA    Tesla                -0.29
+GS      Goldman Sachs        -0.29
+CVX     Chevron              -0.18
+
+Highest firm averages:
+ticker  company_name            
+ABBV    AbbVie                      0.29
+MDT     Medtronic                   0.34
+MPC     Marathon Petroleum          0.35
+MS      Morgan Stanley              0.38
+TMO     Thermo Fisher Scientific    0.45
