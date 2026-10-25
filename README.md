@@ -1,6 +1,6 @@
 # Organizational Authenticity: do firms disclose what they say they value?
 
-RA recruitment assignment, Wharton-TAU Lab 2026. 50 large S&P 500 firms (10 in each of five sectors), 2016–2024.
+50 large S&P 500 firms (10 in each of five sectors), 2016–2024.
 
 ## The study in one page
 
